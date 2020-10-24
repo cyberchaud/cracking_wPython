@@ -1,0 +1,230 @@
+2020-10-24 14:36:43,617 - DEBUG - Start of question
+2020-10-24 14:36:43,617 - DEBUG - Trying to get args
+2020-10-24 14:37:07,617 - DEBUG - Start of question
+2020-10-24 14:37:07,617 - DEBUG - Trying to get args
+2020-10-24 14:37:07,617 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:42:28,061 - DEBUG - Start of question
+2020-10-24 14:42:28,072 - DEBUG - Trying to get args
+2020-10-24 14:42:28,072 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:43:31,310 - DEBUG - Start of question
+2020-10-24 14:43:31,322 - DEBUG - Trying to get args
+2020-10-24 14:43:31,322 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:44:04,026 - DEBUG - Start of question
+2020-10-24 14:44:04,026 - DEBUG - Trying to get args
+2020-10-24 14:44:04,026 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:44:29,268 - DEBUG - Start of question
+2020-10-24 14:44:29,281 - DEBUG - Trying to get args
+2020-10-24 14:44:29,281 - DEBUG - Finding difference plain text A and cipher text B
+2020-10-24 14:44:36,967 - DEBUG - Start of question
+2020-10-24 14:44:36,968 - DEBUG - Trying to get args
+2020-10-24 14:44:36,968 - DEBUG - Finding difference plain text B and cipher text A
+2020-10-24 14:46:50,621 - DEBUG - Start of question
+2020-10-24 14:46:50,621 - DEBUG - Trying to get args
+2020-10-24 14:46:50,621 - DEBUG - Finding difference plain text B and cipher text A
+2020-10-24 14:46:59,829 - DEBUG - Start of question
+2020-10-24 14:46:59,840 - DEBUG - Trying to get args
+2020-10-24 14:46:59,840 - DEBUG - Finding difference plain text B and cipher text B
+2020-10-24 14:47:04,842 - DEBUG - Start of question
+2020-10-24 14:47:04,842 - DEBUG - Trying to get args
+2020-10-24 14:47:04,842 - DEBUG - Finding difference plain text A and cipher text B
+2020-10-24 14:47:23,193 - DEBUG - Start of question
+2020-10-24 14:47:23,193 - DEBUG - Trying to get args
+2020-10-24 14:47:23,193 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:47:36,170 - DEBUG - Start of question
+2020-10-24 14:47:36,170 - DEBUG - Trying to get args
+2020-10-24 14:47:36,170 - DEBUG - Finding difference plain text Y and cipher text P
+2020-10-24 14:47:43,029 - DEBUG - Start of question
+2020-10-24 14:47:43,029 - DEBUG - Trying to get args
+2020-10-24 14:47:43,029 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:48:01,922 - DEBUG - Start of question
+2020-10-24 14:48:01,922 - DEBUG - Trying to get args
+2020-10-24 14:48:01,922 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:48:17,851 - DEBUG - Start of question
+2020-10-24 14:48:17,851 - DEBUG - Trying to get args
+2020-10-24 14:48:17,851 - DEBUG - Finding difference plain text Y and cipher text P
+2020-10-24 14:48:24,275 - DEBUG - Start of question
+2020-10-24 14:48:24,280 - DEBUG - Trying to get args
+2020-10-24 14:48:24,280 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:48:33,822 - DEBUG - Start of question
+2020-10-24 14:48:33,822 - DEBUG - Trying to get args
+2020-10-24 14:48:33,822 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:48:38,048 - DEBUG - Start of question
+2020-10-24 14:48:38,049 - DEBUG - Trying to get args
+2020-10-24 14:48:38,049 - DEBUG - Finding difference plain text Y and cipher text P
+2020-10-24 14:48:45,053 - DEBUG - Start of question
+2020-10-24 14:48:45,053 - DEBUG - Trying to get args
+2020-10-24 14:48:45,054 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:49:27,105 - DEBUG - Start of question
+2020-10-24 14:49:27,105 - DEBUG - Trying to get args
+2020-10-24 14:49:27,105 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:50:07,571 - DEBUG - Start of question
+2020-10-24 14:50:07,579 - DEBUG - Trying to get args
+2020-10-24 14:50:07,579 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:50:26,170 - DEBUG - Start of question
+2020-10-24 14:50:26,170 - DEBUG - Trying to get args
+2020-10-24 14:50:26,170 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:52:19,977 - DEBUG - Start of question
+2020-10-24 14:52:19,988 - DEBUG - Trying to get args
+2020-10-24 14:52:19,988 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:52:55,393 - DEBUG - Start of question
+2020-10-24 14:52:55,398 - DEBUG - Trying to get args
+2020-10-24 14:52:55,398 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:53:31,481 - DEBUG - Start of question
+2020-10-24 14:53:31,481 - DEBUG - Trying to get args
+2020-10-24 14:53:31,481 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:53:49,746 - DEBUG - Start of question
+2020-10-24 14:53:49,748 - DEBUG - Trying to get args
+2020-10-24 14:53:49,748 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:56:19,159 - DEBUG - Start of question
+2020-10-24 14:56:19,159 - DEBUG - Trying to get args
+2020-10-24 14:56:19,159 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:56:35,030 - DEBUG - Start of question
+2020-10-24 14:56:35,030 - DEBUG - Trying to get args
+2020-10-24 14:56:35,030 - DEBUG - Finding difference plain text Y and cipher text P
+2020-10-24 14:56:41,041 - DEBUG - Start of question
+2020-10-24 14:56:41,041 - DEBUG - Trying to get args
+2020-10-24 14:56:41,041 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:57:03,897 - DEBUG - Start of question
+2020-10-24 14:57:03,908 - DEBUG - Trying to get args
+2020-10-24 14:57:03,908 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:57:12,971 - DEBUG - Start of question
+2020-10-24 14:57:12,971 - DEBUG - Trying to get args
+2020-10-24 14:57:12,971 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:57:16,796 - DEBUG - Start of question
+2020-10-24 14:57:16,808 - DEBUG - Trying to get args
+2020-10-24 14:57:16,808 - DEBUG - Finding difference plain text Y and cipher text P
+2020-10-24 14:57:31,153 - DEBUG - Start of question
+2020-10-24 14:57:31,158 - DEBUG - Trying to get args
+2020-10-24 14:57:31,158 - DEBUG - Finding difference plain text Y and cipher text P
+2020-10-24 14:57:50,769 - DEBUG - Start of question
+2020-10-24 14:57:50,769 - DEBUG - Trying to get args
+2020-10-24 14:57:50,769 - DEBUG - Finding difference plain text Y and cipher text P
+2020-10-24 14:57:56,620 - DEBUG - Start of question
+2020-10-24 14:57:56,621 - DEBUG - Trying to get args
+2020-10-24 14:57:56,621 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:58:23,611 - DEBUG - Start of question
+2020-10-24 14:58:23,611 - DEBUG - Trying to get args
+2020-10-24 14:58:23,611 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:58:53,845 - DEBUG - Start of question
+2020-10-24 14:58:53,850 - DEBUG - Trying to get args
+2020-10-24 14:58:53,850 - DEBUG - Finding difference plain text Y and cipher text P
+2020-10-24 14:58:59,063 - DEBUG - Start of question
+2020-10-24 14:58:59,063 - DEBUG - Trying to get args
+2020-10-24 14:58:59,064 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:59:09,418 - DEBUG - Start of question
+2020-10-24 14:59:09,418 - DEBUG - Trying to get args
+2020-10-24 14:59:09,418 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:59:27,178 - DEBUG - Start of question
+2020-10-24 14:59:27,190 - DEBUG - Trying to get args
+2020-10-24 14:59:27,191 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 14:59:30,613 - DEBUG - Start of question
+2020-10-24 14:59:30,620 - DEBUG - Trying to get args
+2020-10-24 14:59:30,621 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 14:59:45,993 - DEBUG - Start of question
+2020-10-24 14:59:46,000 - DEBUG - Trying to get args
+2020-10-24 14:59:46,001 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 15:00:01,288 - DEBUG - Start of question
+2020-10-24 15:00:01,289 - DEBUG - Trying to get args
+2020-10-24 15:00:01,289 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 15:00:07,712 - DEBUG - Start of question
+2020-10-24 15:00:07,712 - DEBUG - Trying to get args
+2020-10-24 15:00:07,712 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 15:01:43,370 - DEBUG - Start of question
+2020-10-24 15:01:43,382 - DEBUG - Trying to get args
+2020-10-24 15:01:43,382 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 15:02:49,234 - DEBUG - Start of question
+2020-10-24 15:02:49,234 - DEBUG - Trying to get args
+2020-10-24 15:02:49,234 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 15:03:00,914 - DEBUG - Start of question
+2020-10-24 15:03:00,914 - DEBUG - Trying to get args
+2020-10-24 15:03:00,914 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 15:03:20,466 - DEBUG - Start of question
+2020-10-24 15:03:20,466 - DEBUG - Trying to get args
+2020-10-24 15:03:20,466 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 15:03:23,442 - DEBUG - Start of question
+2020-10-24 15:03:23,442 - DEBUG - Trying to get args
+2020-10-24 15:03:23,442 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 16:59:50,264 - DEBUG - Start of question
+2020-10-24 16:59:50,265 - DEBUG - Trying to get args
+2020-10-24 16:59:50,265 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 16:59:57,122 - DEBUG - Start of question
+2020-10-24 16:59:57,122 - DEBUG - Trying to get args
+2020-10-24 16:59:57,122 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 17:00:39,100 - DEBUG - Start of question
+2020-10-24 17:00:39,111 - DEBUG - Trying to get args
+2020-10-24 17:00:39,111 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 17:00:43,245 - DEBUG - Start of question
+2020-10-24 17:00:43,245 - DEBUG - Trying to get args
+2020-10-24 17:00:43,245 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 17:01:11,024 - DEBUG - Start of question
+2020-10-24 17:01:11,024 - DEBUG - Trying to get args
+2020-10-24 17:01:11,024 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 17:01:15,473 - DEBUG - Start of question
+2020-10-24 17:01:15,473 - DEBUG - Trying to get args
+2020-10-24 17:01:15,473 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 17:02:15,484 - DEBUG - Start of question
+2020-10-24 17:02:15,484 - DEBUG - Trying to get args
+2020-10-24 17:02:15,484 - DEBUG - Finding difference plain text R and cipher text L
+2020-10-24 17:02:28,293 - DEBUG - Start of question
+2020-10-24 17:02:28,294 - DEBUG - Trying to get args
+2020-10-24 17:02:28,294 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 17:02:42,142 - DEBUG - Start of question
+2020-10-24 17:02:42,153 - DEBUG - Trying to get args
+2020-10-24 17:02:42,153 - DEBUG - Finding difference plain text Y and cipher text P
+2020-10-24 17:02:50,517 - DEBUG - Start of question
+2020-10-24 17:02:50,517 - DEBUG - Trying to get args
+2020-10-24 17:02:50,517 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 17:03:50,272 - DEBUG - Start of question
+2020-10-24 17:03:50,283 - DEBUG - Trying to get args
+2020-10-24 17:03:50,283 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 17:03:53,022 - DEBUG - Start of question
+2020-10-24 17:03:53,033 - DEBUG - Trying to get args
+2020-10-24 17:03:53,033 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 17:05:16,504 - DEBUG - Start of question
+2020-10-24 17:05:16,505 - DEBUG - Trying to get args
+2020-10-24 17:05:16,505 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 17:05:29,797 - DEBUG - Start of question
+2020-10-24 17:05:29,798 - DEBUG - Trying to get args
+2020-10-24 17:05:29,798 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 17:06:33,658 - DEBUG - Start of question
+2020-10-24 17:06:33,658 - DEBUG - Trying to get args
+2020-10-24 17:06:33,658 - DEBUG - Finding difference plain text B and cipher text H
+2020-10-24 17:06:40,241 - DEBUG - Start of question
+2020-10-24 17:06:40,241 - DEBUG - Trying to get args
+2020-10-24 17:06:40,241 - DEBUG - Finding difference plain text C and cipher text H
+2020-10-24 17:10:18,973 - DEBUG - Start of question
+2020-10-24 17:10:18,973 - DEBUG - Trying to get args
+2020-10-24 17:10:18,973 - DEBUG - Finding difference plain text C and cipher text H
+2020-10-24 17:10:32,696 - DEBUG - Start of question
+2020-10-24 17:10:32,707 - DEBUG - Trying to get args
+2020-10-24 17:10:32,707 - DEBUG - Finding difference plain text C and cipher text H
+2020-10-24 17:10:40,040 - DEBUG - Start of question
+2020-10-24 17:10:40,043 - DEBUG - Trying to get args
+2020-10-24 17:10:40,043 - DEBUG - Finding difference plain text A and cipher text H
+2020-10-24 17:10:52,071 - DEBUG - Start of question
+2020-10-24 17:10:52,072 - DEBUG - Trying to get args
+2020-10-24 17:10:52,072 - DEBUG - Finding difference plain text S and cipher text Z
+2020-10-24 17:11:02,772 - DEBUG - Start of question
+2020-10-24 17:11:02,772 - DEBUG - Trying to get args
+2020-10-24 17:11:02,773 - DEBUG - Finding difference plain text Y and cipher text F
+2020-10-24 17:11:33,849 - DEBUG - Start of question
+2020-10-24 17:11:33,857 - DEBUG - Trying to get args
+2020-10-24 17:11:33,857 - DEBUG - Finding difference plain text O and cipher text V
+2020-10-24 17:11:53,188 - DEBUG - Start of question
+2020-10-24 17:11:53,189 - DEBUG - Trying to get args
+2020-10-24 17:11:53,189 - DEBUG - Finding difference plain text O and cipher text V
+2020-10-24 17:12:01,908 - DEBUG - Start of question
+2020-10-24 17:12:01,908 - DEBUG - Trying to get args
+2020-10-24 17:12:01,909 - DEBUG - Finding difference plain text O and cipher text V
+2020-10-24 17:12:11,986 - DEBUG - Start of question
+2020-10-24 17:12:11,997 - DEBUG - Trying to get args
+2020-10-24 17:12:11,997 - DEBUG - Finding difference plain text M and cipher text T
+2020-10-24 17:12:19,113 - DEBUG - Start of question
+2020-10-24 17:12:19,127 - DEBUG - Trying to get args
+2020-10-24 17:12:19,128 - DEBUG - Finding difference plain text T and cipher text M
+2020-10-24 17:12:47,921 - DEBUG - Start of question
+2020-10-24 17:12:47,921 - DEBUG - Trying to get args
+2020-10-24 17:12:47,921 - DEBUG - Finding difference plain text Y and cipher text F
+2020-10-24 17:13:14,240 - DEBUG - Start of question
+2020-10-24 17:13:14,240 - DEBUG - Trying to get args
+2020-10-24 17:13:14,240 - DEBUG - Finding difference plain text F and cipher text Y

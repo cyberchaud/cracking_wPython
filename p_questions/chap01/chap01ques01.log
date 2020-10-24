@@ -24,3 +24,37 @@
 2020-10-24 13:53:45,613 - DEBUG - Start of question
 2020-10-24 13:53:45,616 - DEBUG - Trying to get args
 2020-10-24 13:53:45,616 - DEBUG - Encoding plain text #$%$^*&&%$#@AAAbbb!.! and rotating 13 times
+2020-10-24 14:05:13,053 - DEBUG - Start of question
+2020-10-24 14:05:13,062 - DEBUG - Trying to get args
+2020-10-24 14:05:13,063 - DEBUG - Encoding plain text ZXAI and rotating 15 times
+2020-10-24 14:10:59,701 - DEBUG - Start of question
+2020-10-24 14:10:59,701 - DEBUG - Trying to get args
+2020-10-24 14:10:59,701 - DEBUG - Invalid arguments
+2020-10-24 14:10:59,702 - DEBUG - Ending.
+2020-10-24 14:11:23,742 - DEBUG - Start of question
+2020-10-24 14:11:23,754 - DEBUG - Trying to get args
+2020-10-24 14:11:23,754 - DEBUG - Decoding cipher text ZXAI and rotating 15 times
+2020-10-24 14:11:57,390 - DEBUG - Start of question
+2020-10-24 14:11:57,391 - DEBUG - Trying to get args
+2020-10-24 14:11:57,391 - DEBUG - Decoding cipher text ZXAI and rotating 15 times
+2020-10-24 14:12:19,339 - DEBUG - Start of question
+2020-10-24 14:12:19,340 - DEBUG - Trying to get args
+2020-10-24 14:12:19,340 - DEBUG - Decoding cipher text  and rotating 15 times
+2020-10-24 14:12:28,038 - DEBUG - Start of question
+2020-10-24 14:12:28,038 - DEBUG - Trying to get args
+2020-10-24 14:12:28,038 - DEBUG - Decoding cipher text ZXAI and rotating 15 times
+2020-10-24 14:12:43,947 - DEBUG - Start of question
+2020-10-24 14:12:43,947 - DEBUG - Trying to get args
+2020-10-24 14:12:43,947 - DEBUG - Decoding cipher text ZXAI: and rotating 0 times
+2020-10-24 14:12:55,429 - DEBUG - Start of question
+2020-10-24 14:12:55,429 - DEBUG - Trying to get args
+2020-10-24 14:12:55,429 - DEBUG - Decoding cipher text ZXAIPRDH and rotating 15 times
+2020-10-24 14:19:04,444 - DEBUG - Start of question
+2020-10-24 14:19:04,445 - DEBUG - Trying to get args
+2020-10-24 14:19:04,445 - DEBUG - Decoding cipher text ZXAI P RDH and rotating 0 times
+2020-10-24 14:19:19,403 - DEBUG - Start of question
+2020-10-24 14:19:19,403 - DEBUG - Trying to get args
+2020-10-24 14:19:19,404 - DEBUG - Decoding cipher text ZXAI P RDH and rotating 15 times
+2020-10-24 14:19:58,009 - DEBUG - Start of question
+2020-10-24 14:19:58,009 - DEBUG - Trying to get args
+2020-10-24 14:19:58,009 - DEBUG - Decoding cipher text ZXAI P RDHIJBT HDBTIXBTH LDGC QN HRDIRWBTC XC PBTGXRP and rotating 15 times
