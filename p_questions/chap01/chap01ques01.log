@@ -1,0 +1,26 @@
+2020-10-24 11:01:03,162 - DEBUG - Start of question
+2020-10-24 13:29:28,391 - DEBUG - Start of question
+2020-10-24 13:29:50,462 - DEBUG - Start of question
+2020-10-24 13:30:36,980 - DEBUG - Start of question
+2020-10-24 13:30:56,864 - DEBUG - Start of question
+2020-10-24 13:31:08,680 - DEBUG - Start of question
+2020-10-24 13:37:36,357 - DEBUG - Start of question
+2020-10-24 13:38:07,597 - DEBUG - Start of question
+2020-10-24 13:46:43,751 - DEBUG - Start of question
+2020-10-24 13:46:51,097 - DEBUG - Start of question
+2020-10-24 13:46:57,280 - DEBUG - Start of question
+2020-10-24 13:47:10,518 - DEBUG - Start of question
+2020-10-24 13:47:40,849 - DEBUG - Start of question
+2020-10-24 13:53:18,052 - DEBUG - Start of question
+2020-10-24 13:53:18,055 - DEBUG - Trying to get args
+2020-10-24 13:53:18,056 - DEBUG - Invalid arguments
+2020-10-24 13:53:18,056 - DEBUG - Ending.
+2020-10-24 13:53:22,815 - DEBUG - Start of question
+2020-10-24 13:53:22,824 - DEBUG - Trying to get args
+2020-10-24 13:53:22,824 - DEBUG - Encoding plain text AAAbbb!.! and rotating 13 times
+2020-10-24 13:53:31,234 - DEBUG - Start of question
+2020-10-24 13:53:31,234 - DEBUG - Trying to get args
+2020-10-24 13:53:31,234 - DEBUG - Encoding plain text 3333AAAbbb!.! and rotating 13 times
+2020-10-24 13:53:45,613 - DEBUG - Start of question
+2020-10-24 13:53:45,616 - DEBUG - Trying to get args
+2020-10-24 13:53:45,616 - DEBUG - Encoding plain text #$%$^*&&%$#@AAAbbb!.! and rotating 13 times
