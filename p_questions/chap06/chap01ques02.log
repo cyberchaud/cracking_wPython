@@ -1,0 +1,105 @@
+2020-10-25 14:10:49,858 - DEBUG - Start of question
+2020-10-25 14:10:49,858 - DEBUG - Trying to get args
+2020-10-25 14:10:49,858 - DEBUG - Decoding cipher text  and rotating 0 times
+2020-10-25 14:11:07,330 - DEBUG - Start of question
+2020-10-25 14:11:07,331 - DEBUG - Trying to get args
+2020-10-25 14:11:07,332 - DEBUG - Help argument was passed.  Displaying help
+2020-10-25 14:11:07,333 - DEBUG - Ending.
+2020-10-25 14:11:19,577 - DEBUG - Start of question
+2020-10-25 14:11:19,581 - DEBUG - Trying to get args
+2020-10-25 14:11:19,581 - DEBUG - Decoding cipher text AAA and rotating 6 times
+2020-10-25 19:27:38,581 - DEBUG - Start of question
+2020-10-25 19:27:38,607 - DEBUG - Trying to get args
+2020-10-25 19:29:14,680 - DEBUG - Start of question
+2020-10-25 19:29:14,681 - DEBUG - Trying to get args
+2020-10-25 19:29:32,386 - DEBUG - Start of question
+2020-10-25 19:29:32,386 - DEBUG - Trying to get args
+2020-10-25 19:31:52,116 - DEBUG - Start of question
+2020-10-25 19:31:52,117 - DEBUG - Trying to get args
+2020-10-25 19:34:20,383 - DEBUG - Start of question
+2020-10-25 19:34:20,384 - DEBUG - Trying to get args
+2020-10-25 19:34:20,385 - DEBUG - Trying to open: 
+2020-10-25 19:34:30,691 - DEBUG - Start of question
+2020-10-25 19:34:30,692 - DEBUG - Trying to get args
+2020-10-25 19:34:30,692 - DEBUG - Trying to open: 
+2020-10-25 19:35:27,375 - DEBUG - Start of question
+2020-10-25 19:35:27,376 - DEBUG - Trying to get args
+2020-10-25 19:35:27,377 - DEBUG - Trying to open: 
+2020-10-25 19:35:30,462 - DEBUG - Start of question
+2020-10-25 19:35:30,462 - DEBUG - Trying to get args
+2020-10-25 19:35:30,462 - DEBUG - Trying to open: 
+2020-10-25 19:35:51,397 - DEBUG - Start of question
+2020-10-25 19:35:51,399 - DEBUG - Trying to get args
+2020-10-25 19:35:51,400 - DEBUG - Trying to open: 
+2020-10-25 19:35:59,299 - DEBUG - Start of question
+2020-10-25 19:35:59,301 - DEBUG - Trying to get args
+2020-10-25 19:35:59,302 - DEBUG - Trying to open: 
+2020-10-25 19:36:12,484 - DEBUG - Start of question
+2020-10-25 19:36:12,488 - DEBUG - Trying to get args
+2020-10-25 19:36:12,488 - DEBUG - Trying to open: 
+2020-10-25 19:36:17,709 - DEBUG - Start of question
+2020-10-25 19:36:17,710 - DEBUG - Trying to get args
+2020-10-25 19:36:17,712 - DEBUG - Trying to open: 
+2020-10-25 19:37:42,226 - DEBUG - Start of question
+2020-10-25 19:37:42,229 - DEBUG - Trying to get args
+2020-10-25 19:37:42,229 - DEBUG - Trying to open: 
+2020-10-25 19:37:46,879 - DEBUG - Start of question
+2020-10-25 19:37:46,879 - DEBUG - Trying to get args
+2020-10-25 19:37:46,879 - DEBUG - Trying to open: 
+2020-10-25 19:38:16,382 - DEBUG - Start of question
+2020-10-25 19:38:16,385 - DEBUG - Trying to get args
+2020-10-25 19:38:16,386 - DEBUG - Trying to open: 
+2020-10-25 19:38:47,466 - DEBUG - Start of question
+2020-10-25 19:38:47,467 - DEBUG - Trying to get args
+2020-10-25 19:38:47,467 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:41:09,512 - DEBUG - Start of question
+2020-10-25 19:41:09,792 - DEBUG - Trying to get args
+2020-10-25 19:41:09,792 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:41:24,236 - DEBUG - Start of question
+2020-10-25 19:41:24,236 - DEBUG - Trying to get args
+2020-10-25 19:41:24,236 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:41:27,311 - DEBUG - Start of question
+2020-10-25 19:41:27,311 - DEBUG - Trying to get args
+2020-10-25 19:41:27,311 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:41:38,855 - DEBUG - Start of question
+2020-10-25 19:41:38,858 - DEBUG - Trying to get args
+2020-10-25 19:41:38,858 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:51:30,059 - DEBUG - Start of question
+2020-10-25 19:51:30,063 - DEBUG - Trying to get args
+2020-10-25 19:51:30,063 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:51:40,682 - DEBUG - Start of question
+2020-10-25 19:51:40,683 - DEBUG - Trying to get args
+2020-10-25 19:51:40,683 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:53:10,583 - DEBUG - Start of question
+2020-10-25 19:53:10,593 - DEBUG - Trying to get args
+2020-10-25 19:53:10,593 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:53:49,983 - DEBUG - Start of question
+2020-10-25 19:53:49,994 - DEBUG - Trying to get args
+2020-10-25 19:53:49,994 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:56:23,433 - DEBUG - Start of question
+2020-10-25 19:56:23,453 - DEBUG - Trying to get args
+2020-10-25 19:56:23,453 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:57:32,059 - DEBUG - Start of question
+2020-10-25 19:57:32,060 - DEBUG - Trying to get args
+2020-10-25 19:57:32,060 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:57:47,696 - DEBUG - Start of question
+2020-10-25 19:57:47,697 - DEBUG - Trying to get args
+2020-10-25 19:57:47,697 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:58:01,343 - DEBUG - Start of question
+2020-10-25 19:58:01,349 - DEBUG - Trying to get args
+2020-10-25 19:58:01,349 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:58:40,380 - DEBUG - Start of question
+2020-10-25 19:58:40,391 - DEBUG - Trying to get args
+2020-10-25 19:58:40,391 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:59:06,468 - DEBUG - Start of question
+2020-10-25 19:59:06,468 - DEBUG - Trying to get args
+2020-10-25 19:59:06,468 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:59:23,536 - DEBUG - Start of question
+2020-10-25 19:59:23,540 - DEBUG - Trying to get args
+2020-10-25 19:59:23,540 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 19:59:41,529 - DEBUG - Start of question
+2020-10-25 19:59:41,532 - DEBUG - Trying to get args
+2020-10-25 19:59:41,532 - DEBUG - Trying to open: ciphertext.txt
+2020-10-25 20:06:14,111 - DEBUG - Start of question
+2020-10-25 20:06:14,111 - DEBUG - Trying to get args
+2020-10-25 20:06:14,111 - DEBUG - Trying to open: ciphertext.txt
